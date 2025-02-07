@@ -21,11 +21,11 @@
     </properties>
 
 
-    <distributionManagement>
-        <repository>
-            <id>github</id>
-            <url>https://maven.pkg.github.com/ваш_username/имя_репозитория</url>
-        </repository>
-    </distributionManagement>
+<!--    <distributionManagement>-->
+<!--        <repository>-->
+<!--            <id>github</id>-->
+<!--            <url>https://maven.pkg.github.com/ваш_username/имя_репозитория</url>-->
+<!--        </repository>-->
+<!--    </distributionManagement>-->
 
 </project>
